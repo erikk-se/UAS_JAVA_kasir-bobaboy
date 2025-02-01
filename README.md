@@ -1,5 +1,5 @@
 # kasir-bobaboy
- Aplikasi kasir sederhana untuk penjualan minuman Boba h
+ Aplikasi kasir sederhana untuk penjualan minuman Boba
 
  1. Halaman Login
  ![Screenshot_1](https://github.com/user-attachments/assets/eb173379-5dae-486a-9359-ed130baf3782)
